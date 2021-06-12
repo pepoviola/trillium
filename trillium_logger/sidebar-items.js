@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Logger","Development-mode logger for trillium"]]});
